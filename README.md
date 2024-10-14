@@ -6,11 +6,9 @@ This project is a content-based movie recommendation system that suggests movies
 
 - **Content-based filtering:** Recommends movies based on similarities in features like genre, cast, crew, etc.
 - **Vectorization Techniques:** Uses vectorization and `cosine_similarity` to calculate the similarity between movies.
-- **Interactive search:** Users can input movie titles and get recommendations.
   
 ## Tech Stack
 
-- **Frontend:** HTML, CSS
 - **Backend:** Python
 - **Libraries:** 
   - `NumPy`
